@@ -77,7 +77,7 @@ cd /root/kubernetes/install_cluster
   
 When installation of master is completed you should see below components in kube-system
 namespace
-![alt text](install_k8s/images/img.png)
+![alt text](![img](https://github.com/user-attachments/assets/8f56dc35-8c34-4e53-82d3-c14da36848ad))
 
 When you reboot the vms, the kubelet service may not run, you need to restart the kubelet.
 
